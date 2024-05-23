@@ -6,7 +6,6 @@ val: ./test/images  # val images
 names:
   0: a10
   1: a9
-  2: t10
 
 # Hyperparameters ------------------------------------------------------------------------------------------------------
 # lr0: 0.01  # initial learning rate (i.e. SGD=1E-2, Adam=1E-3)
